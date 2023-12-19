@@ -1,0 +1,22 @@
+.w-100 {
+  width: 100%!important;
+  height: 500px;
+  object-fit: cover;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-footer {
+  padding: var(--bs-card-cap-padding-y) var(--bs-card-cap-padding-x);
+  color: var(--bs-card-cap-color);
+  background-color: transparent;
+  border-top: none;
+}
+
+.list-group-item {
+ background-color: rgb(108,117,125);
+ color: white;
+}
